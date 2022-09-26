@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I'm begginer Python student.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif">
 
 
 - 🔭 Finished course: **Python Basics**
