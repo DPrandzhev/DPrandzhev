@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif">
 
 
-- 🔭 Finished course: **Python Basics**
+- 🔭 Finished course: **Python Fundamentals**
 
-- 👯 I’m currently learning: **Python Fundamentals**
+- 👯 I’m currently learning: **QA Fundamentals and Manual Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DPrandzhev/Programming-Basics-Python-SoftUni-July-2022.git](https://github.com/DPrandzhev/Programming-Basics-Python-SoftUni-July-2022.git)
 
