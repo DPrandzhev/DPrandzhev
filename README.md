@@ -7,7 +7,7 @@
 
 - 👯 I’m currently learning: **QA Fundamentals and Manual Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DPrandzhev?tab=repositories](DPrandzhev/repositories)
+- 👨‍💻 All of my projects are available at [DPrandzhev/repositories](https://github.com/DPrandzhev?tab=repositories)
 
 - 💬 Ask me about **Anything. I don't know nothing! :)**
 
