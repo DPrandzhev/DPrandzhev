@@ -7,7 +7,7 @@
 
 - 👯 I’m currently learning: **QA Fundamentals and Manual Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DPrandzhev/Programming-Basics-Python-SoftUni-July-2022.git](https://github.com/DPrandzhev/Programming-Basics-Python-SoftUni-July-2022.git)
+- 👨‍💻 All of my projects are available at [https://github.com/DPrandzhev?tab=repositories](https://github.com/DPrandzhev?tab=repositories)
 
 - 💬 Ask me about **Anything. I don't know nothing! :)**
 
