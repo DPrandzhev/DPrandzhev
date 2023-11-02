@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif"> -->
 
 
-- 🔭 Finished course: **Python Fundamentals**, **C# Fundamentals**, **Manual QA**
+- 🔭 Finished course: **Python Fundamentals** **/** **C# Fundamentals** **/** **Manual QA**
 
 - 👯 I’m currently learning: **QA Automation**
 
