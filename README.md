@@ -2,7 +2,7 @@
 
 <h3 align="center">Passionate QA Engineer | Manual & Automation Testing Enthusiast</h3>
 
-<p align="center"><img align="right" alt="Coding" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif"></p>
+
 
 ---
 
