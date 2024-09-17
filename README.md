@@ -67,7 +67,7 @@ Feel free to contact me for collaboration, code review, or to discuss anything Q
     <img src="https://avatars.githubusercontent.com/u/7551495?s=280&v=4" alt="jmeter" width="40" height="40"/>
   </a>
   <a href="https://k6.io/" target="_blank" rel="noreferrer">
-    <img src="https://k6.io/images/icons/icon-48x48.png?v=e7186f42e8" alt="k6" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
