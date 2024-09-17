@@ -2,8 +2,6 @@
 
 <h3 align="center">Passionate QA Engineer | Manual & Automation Testing Enthusiast</h3>
 
-
-
 ---
 
 ### 🎓 Recently Completed Courses:
@@ -76,6 +74,6 @@ Feel free to contact me for collaboration, code review, or to discuss anything Q
     <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chai/chai-original.svg" alt="chai" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="40" height="40"/>
   </a>
 </p>
