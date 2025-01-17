@@ -4,15 +4,9 @@
 
 ---
 
-### 🎓 Recently Completed Courses:
-- **QA Automation Engineering**
-- **Python Fundamentals**
-- **C# Fundamentals**
-  
-### 🚀 Currently Learning:
-- Advanced topics in **Automation Testing** and **CI/CD pipelines**
+### 🎓 Currently working as Manual QA at Risco Group
 
-### 🛠 Projects and Contributions:
+### 🛠 Some Projects and Contributions:
 All of my projects are available at my [GitHub Repositories](https://github.com/DPrandzhev?tab=repositories), where I work on various testing frameworks, automation tools, and more.
 
 ### 🔍 Ask Me About:
