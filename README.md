@@ -4,14 +4,12 @@
 ---
 
 - 🧪 Manual QA @ **Risco Group**
-- 🤖 Automation: Selenium, Playwright, Cypress, Appium
-- 🔌 API & Perf: Postman, JMeter, k6
-- ⚙️ CI/CD, Docker, Git, Linux
+- 🤖 Basic Automation: Selenium, Katalon
+- 🔌 API and Web traffic: Postman, Burp suite
+- 🌐 Web fundamentals: HTTP, headers, cookies, HTML/CSS
+
 
 ---
-
-🔗 **Projects:**  
-github.com/DPrandzhev?tab=repositories
 
 📧 **Contact:**  
 daniel.prandzhev@gmail.com
@@ -26,7 +24,6 @@ daniel.prandzhev@gmail.com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/BurpSuite_Logo.svg" width="32" alt="Burp Suite"/>
 </p>
 
 
