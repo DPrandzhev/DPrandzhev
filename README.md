@@ -12,7 +12,7 @@
 ---
 
 📧 **Contact:**  
-daniel.prandzhev@gmail.com
+daniel.prandzhev@protonmail.com
 
 ---
 
